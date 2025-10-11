@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --border: 220 14% 96%;
+  --input: 220 14% 96%;
+  --ring: 222 47% 11%;
+  --background: 0 0% 100%;
+  --foreground: 222 47% 11%;
+  --primary: 222 47% 11%;
+  --secondary: 210 40% 96%;
+  --destructive: 0 84% 60%;
+  --muted: 210 40% 96%;
+  --accent: 210 40% 96%;
+  --popover: 0 0% 100%;
+  --card: 0 0% 100%;
+}
