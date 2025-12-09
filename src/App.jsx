@@ -32,7 +32,7 @@ export default function App() {
       <header className="sticky top-0 z-40 backdrop-blur bg-background/60 dark:bg-background/80 border-b border-border">
         <div className="max-w-6xl mx-auto px-6 flex items-center justify-between h-16">
           <div className="flex items-center gap-3">
-            <span className="font-bold text-lg">Your Name</span>
+            <span className="font-bold text-lg">Mohammed Mustapha Onimisi Ahmed</span>
             <span className="text-sm text-muted hidden sm:inline">• Data Analyst</span>
           </div>
 
@@ -64,7 +64,7 @@ export default function App() {
       </main>
 
       <footer className="mt-16 py-8 text-center text-sm text-muted border-t border-border bg-background/50">
-        © {new Date().getFullYear()} Your Name — Data Analyst · Built with React, Vite & Tailwind
+        © {new Date().getFullYear()} Mohammed Mustapha Onimisi Ahmed — Data Analyst
       </footer>
     </div>
   );

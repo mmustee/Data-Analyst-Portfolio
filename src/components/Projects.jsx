@@ -12,9 +12,9 @@ const DEFAULT_PROJECTS = [
   },
   {
     title: "Customer Churn Analysis",
-    description: "Built a churn model and visualized retention strategies; produced next steps for reducing attrition.",
-    tags: ["Python", "scikit-learn", "Pandas"],
-    link: "#"
+    description: "Built a churn model and visualized retention strategies for Databel - a telecommunications company - produced next steps for reducing attrition.",
+    tags: ["Power BI", "Excel", "DAX"],
+    link: "/src/components/Churn.jsx"
   },
   {
     title: "Market Basket Analysis",

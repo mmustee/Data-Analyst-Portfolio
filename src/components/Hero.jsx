@@ -10,7 +10,7 @@ export default function Hero() {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7 }}>
             <h1 className="text-4xl md:text-5xl font-extrabold leading-tight">
-              I’m <span className="text-primary">Your Name</span> — a Data Analyst who turns messy data into clear decisions.
+              I’m <span className="text-primary">Mohammed Mustapha</span> — a Data Analyst with a cybersecurity background that turns your data into valuable business insights
             </h1>
             <p className="mt-4 text-muted max-w-xl">
               I build dashboards, predictive models, and reproducible analyses that help teams act with confidence. My focus is on clarity, impact and production-ready analytics.
@@ -29,7 +29,7 @@ export default function Hero() {
                 <div className="text-xs">Projects</div>
               </div>
               <div>
-                <div className="text-2xl font-bold">4</div>
+                <div className="text-2xl font-bold">2</div>
                 <div className="text-xs">Years Experience</div>
               </div>
               <div>
